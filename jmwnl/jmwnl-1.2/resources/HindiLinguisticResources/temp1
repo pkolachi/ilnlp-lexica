@@ -1,0 +1,36 @@
+आयरिश	Flag:0
+Root:आयरिश Paradigm:unknown Category:unknownLength:1:
+पब	Flag:0
+Root:पब Paradigm:unknown Category:unknownLength:1:
+के	Flag:0
+Root:के Paradigm:case Category:cmLength:1:
+कुछ	Flag:0
+Root:कुछ Paradigm:intensifier Category:intensifierLength:1:
+Root:कुछ Paradigm:pronoun_pn Category:pnLength:1:
+Root:कुछ Paradigm:quantifier Category:quantifierLength:1:
+तौरतरीकों	Flag:0
+Root:तौरतरीकों Paradigm:unknown Category:unknownLength:1:
+के	Flag:0
+Root:के Paradigm:case Category:cmLength:1:
+पुनर्स्मरण	Flag:0
+Root:पुनर्स्मरण Paradigm:unknown Category:unknownLength:1:
+कर	Flag:0
+Root:कर Paradigm:vaux Category:verb_auxLength:1:
+Root:कर Paradigm:verb Category:verbLength:1:
+Root:कर Paradigm:घर Category:nounLength:1:
+लेने	Flag:0
+Root:ले Paradigm:vaux Category:verb_auxLength:2ने::
+का	Flag:0
+Root:का Paradigm:case Category:cmLength:1:
+विचार	Flag:0
+Root:विचार Paradigm:घर Category:nounLength:1:
+भी	Flag:0
+Root:भी Paradigm:particle Category:particleLength:1:
+सर्वदा	Flag:0
+Root:सर्वदा Paradigm:adverb Category:adverbLength:1:
+उत्तम	Flag:0
+Root:उत्तम Paradigm:adjective Category:adjectiveLength:1:
+है।	Flag:1
+Root:है। Paradigm:unknown Category:unknownLength:1:
+.	Flag:0
+Root:. Paradigm:SYM Category:SYMLength:1:
